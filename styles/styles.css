@@ -570,7 +570,6 @@ img {
     transform: translate(-50%, -50%) scale(1);
     transition: transform 300ms linear;
     padding: 24px;
-    text-align: right;
 }
 
 .backdrop.is-hidden .modal {
